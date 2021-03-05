@@ -1,0 +1,3 @@
+include ':ihvideoplayer'
+include ':app'
+rootProject.name = "Video Player"
